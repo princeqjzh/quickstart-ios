@@ -1,7 +1,4 @@
 PODS:
-  - Firebase/AdMob (6.16.0):
-    - Firebase/CoreOnly
-    - Google-Mobile-Ads-SDK (~> 7.50)
   - Firebase/Analytics (6.16.0):
     - Firebase/Core
   - Firebase/Core (6.16.0):
@@ -77,8 +74,8 @@ PODS:
   - PromisesObjC (1.2.8)
 
 DEPENDENCIES:
-  - Firebase/AdMob
   - Firebase/Analytics
+  - Google-Mobile-Ads-SDK
 
 SPEC REPOS:
   trunk:
@@ -113,6 +110,6 @@ SPEC CHECKSUMS:
   nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
   PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
 
-PODFILE CHECKSUM: 684a45a18862f0bfd06fb08db1a7e978f8c62d49
+PODFILE CHECKSUM: 6ddd3247d052e1fa8251e94c01c0b34a9d7a9fb8
 
 COCOAPODS: 1.8.4
